@@ -1,3 +1,6 @@
+TERMS OF USE
+
+
 1. Acceptance of Terms
 By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to all of these Terms, you may not use the Service.
 
