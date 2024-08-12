@@ -30,6 +30,6 @@ NinjaCatVPN reserves the right to modify or revise these Terms at any time. We w
 These Terms shall be governed by and construed in accordance with the laws of France, without regard to its conflict of law principles.
 
 9. Contact Us
-If you have any questions about these Terms, please contact us at support@ninjacatvpn.net
+If you have any questions about these Terms, please contact us at support@ninjacatvpn.com
 
 Last Updated: 01.04.2024
